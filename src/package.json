@@ -1,0 +1,29 @@
+{
+  "name": "medium-import-feed",
+  "version": "0.0.1",
+  "description": "import your feeds directly into medium",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisrudge/medium-import-feed.git"
+  },
+  "keywords": [
+    "medium",
+    "import",
+    "feed"
+  ],
+  "author": "Luis Rudge <luis@luisrudge.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisrudge/medium-import-feed/issues"
+  },
+  "homepage": "https://github.com/luisrudge/medium-import-feed#readme",
+  "devDependencies": {
+    "babel-eslint": "4.1.3",
+    "eslint": "1.7.3",
+    "eslint-config-airbnb": "0.1.0"
+  }
+}
