@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/korwmols9k90ynku/branch/master?svg=true)](https://ci.appveyor.com/project/luisrudge/medium-import-feed/branch/master)
+[![Build Status](https://travis-ci.org/luisrudge/medium-import-feed.svg?branch=master)](https://travis-ci.org/luisrudge/medium-import-feed)
+
 # medium-import-feed
 import your feeds directly into medium
 
