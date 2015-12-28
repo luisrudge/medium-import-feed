@@ -1,6 +1,6 @@
 {
   "name": "medium-import-feed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "import your feeds directly into medium",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
   "dependencies": {
     "babel": "5.8.29",
     "axios": "0.7.0",
-    "moment": "2.10.6",
     "rsj": "0.0.4",
     "yargs": "3.29.0"
   }
