@@ -1,11 +1,10 @@
-import moment from 'moment';
 
-export default ({title, description, categories, pubdate}) => ({
+export default ({title, description, categories, pubDate}) => ({
   title,
   contentFormat: 'html',
   content: `<h1>${title}</h1>
             ${description}`,
   tags: categories,
-  publishedAt: pubdate,
+  publishedAt: pubDate,
   publishStatus: 'draft',
 });
