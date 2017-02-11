@@ -1,4 +1,4 @@
-import {argv} from 'yargs';
+import { argv } from 'yargs';
 const {token, feed} = argv;
 
 export default {
