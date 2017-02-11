@@ -1,4 +1,3 @@
-
 export default ({title, description, categories, pubDate}) => ({
   title,
   contentFormat: 'html',
